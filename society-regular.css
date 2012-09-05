@@ -1,0 +1,10 @@
+@font-face {
+				font-family: 'Untitled-Regular';
+				src: url('society-regular.eot');
+				src: url('society-regular.eot?#iefix') format('embedded-opentype'),
+						 url('society-regular.woff') format('woff'),
+						 url('society-regular.ttf') format('truetype'),
+						 url('society-regular.svg#society-regular') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
